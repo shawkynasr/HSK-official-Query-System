@@ -4,4 +4,6 @@
 Data source:
 http://www.chinesetest.cn/index.do
 
-Update 25-05-2021: fixed all of typos.
+Updates
+25-05-2021: fixed all of typos.
+6-6-2021: Change encoding 汉字.csv to UTF8
