@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 国际中文教育中文水平等级标准
+message: 'If you use this data, please cite it as below.'
+type: dataset
+authors:
+  - given-names: 教育部中外语言交流合作中心
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/shawkynasr/HSK-official-Query-System
+    description: HSK official Query System
+license: MIT
+version: '2.0'
+date-released: '2021-06-06'
