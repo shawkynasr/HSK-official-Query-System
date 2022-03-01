@@ -6,7 +6,7 @@ title: 国际中文教育中文水平等级标准
 message: 'If you use this data, please cite it as below.'
 type: dataset
 authors:
-  - given-names: 教育部中外语言交流合作中心
+  - name-particle: 教育部中外语言交流合作中心
 identifiers:
   - type: url
     value: >-
