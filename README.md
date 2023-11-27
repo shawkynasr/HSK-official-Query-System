@@ -10,4 +10,5 @@ Updates
 6-6-2021: Change encoding 汉字.csv to UTF8
 
 2022-04-22：fixed 音节 file, and release 2.1 version include csv files and excel sheets file.
-2023-11-27 fixed 语法 file
+2023-11-27 fixed 语法 file.
+2023-11-27 added 汉字表 2023（only 3000) and 手写汉字Handwriting 2023.
