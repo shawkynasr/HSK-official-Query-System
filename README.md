@@ -18,3 +18,5 @@ Updates
 2023-11-27 added 汉字表 2023（only 3000) and 手写汉字Handwriting 2023.
 
 2026-08-19 Change encoding "HSK 3.0-Yufa 2025 final.csv" to UTF8, and restore the 590 “……” lost by its GB2312 export.
+
+2026-08-21 upload HSK 3.0-Yufa with Reference Books.csv,UTF8.
